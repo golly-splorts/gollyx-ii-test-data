@@ -1,0 +1,531 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 5,
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Mesa Insurrectionists",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "BTX",
+                "patternName": "bigsegment",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "db881897-a3ca-4980-a1e7-da38cacfbc50",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 5,
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Lake Havasu City Counter-Spies",
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA",
+                "patternName": "randomsegment",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "7699190e-10a2-462c-8be8-2ea6252953ef",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 5,
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Peoria Gastroenterologists",
+                "team1Abbr": "DECO",
+                "team2Abbr": "DET",
+                "patternName": "doublegaussian",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "7cb1a733-58c7-46b1-a528-4c508e23b386",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 5,
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Casas Adobes Feral Pigs",
+                "team1Abbr": "BB",
+                "team2Abbr": "SFBS",
+                "patternName": "rabbitfarm",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "9f57fa07-2d1a-4eb3-bcdd-2d7fef100fd6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 5,
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Mesa Insurrectionists",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "BTX",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "db6b1ae6-4616-45ed-a664-563eb64189c4",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 5,
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Lake Havasu City Counter-Spies",
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA",
+                "patternName": "eightr",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "4f049b17-01bf-496a-956f-326528b95770",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 5,
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Peoria Gastroenterologists",
+                "team1Abbr": "DECO",
+                "team2Abbr": "DET",
+                "patternName": "eightpi",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "54d0d6b3-be98-4285-96ab-402d44548002",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 5,
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Casas Adobes Feral Pigs",
+                "team1Abbr": "BB",
+                "team2Abbr": "SFBS",
+                "patternName": "switchengines",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "138d60f9-51db-4bf4-b9ad-984fa0b72462",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 5,
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Apache Junction Birdcallers",
+                "team1Abbr": "BTX",
+                "team2Abbr": "LBFB",
+                "patternName": "random",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "c04a1de0-446f-4b8a-82a4-a9af1e9617b2",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 5,
+                "team1Name": "Lake Havasu City Counter-Spies",
+                "team2Name": "Bullhead City Surgeons",
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA",
+                "patternName": "classictimebomb",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "b0ebafbe-41f4-437c-a1f5-ff564d0b9259",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 5,
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Casa Grande Laptop Thieves",
+                "team1Abbr": "DET",
+                "team2Abbr": "DECO",
+                "patternName": "spaceshipsegment",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "141f028f-ede3-407e-84df-66db3ce5eb77",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 5,
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "San Luis Oscillators",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "BB",
+                "patternName": "randommethuselahs",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "de15766d-855f-4985-9428-f9b4e9efc25d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 5,
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Apache Junction Birdcallers",
+                "team1Abbr": "BTX",
+                "team2Abbr": "LBFB",
+                "patternName": "rabbitfarm",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "3161b9db-075a-43d4-9392-1ae0b4bea633",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 5,
+                "team1Name": "Lake Havasu City Counter-Spies",
+                "team2Name": "Bullhead City Surgeons",
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA",
+                "patternName": "classictimebomb",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "523809e9-3366-46b0-8e60-b827ce34b5f4",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 5,
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Casa Grande Laptop Thieves",
+                "team1Abbr": "DET",
+                "team2Abbr": "DECO",
+                "patternName": "fourrabbits",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "dfcd5729-ab20-4118-bba5-9addde689ed8",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 5,
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "San Luis Oscillators",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "BB",
+                "patternName": "crabs",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "f2c49beb-9ccf-4dff-a924-53d7b388dda5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 5,
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Mesa Insurrectionists",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "BTX",
+                "patternName": "twoacorn",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "db1bc2e0-7c28-4aa3-b51f-18f4fcaf5586",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 5,
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Lake Havasu City Counter-Spies",
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA",
+                "patternName": "quadjustyna",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "9461cc37-d770-4897-8a95-e42d3696e1b9",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 5,
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Peoria Gastroenterologists",
+                "team1Abbr": "DECO",
+                "team2Abbr": "DET",
+                "patternName": "twomultum",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "80baaaba-c563-49e2-aba7-1f7c7ea9d3a2",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 5,
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Casas Adobes Feral Pigs",
+                "team1Abbr": "BB",
+                "team2Abbr": "SFBS",
+                "patternName": "spaceshipsegment",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "571f4ced-fb7c-469f-8103-6545664378dd",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "doublegaussian",
+                "league": "Cold League",
+                "season": 5,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "871ebb54-d076-4447-8459-f4329e7338c8",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "twomultum",
+                "league": "Hot League",
+                "season": 5,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "e88babf2-a5ad-41eb-b1e2-bd0d938debb1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "bigsegment",
+                "league": "Cold League",
+                "season": 5,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "5603cab6-d6ce-4572-b1ee-e4593d034324",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "crabs",
+                "league": "Hot League",
+                "season": 5,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "f0cdabfa-f0c2-4347-a35c-cbbb07d7aa6b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randommethuselahs",
+                "league": "Cold League",
+                "season": 5,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "51ab311d-68fe-4184-bc23-4c253e84a886",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "Hot League",
+                "season": 5,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "14abeabf-c6da-4ec9-8f0a-c971d554d635",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "league": "Cold League",
+                "season": 5,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "943e9173-2586-4dc6-89be-ac51f3627dac",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "orchard",
+                "league": "Hot League",
+                "season": 5,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "1363d479-e022-4a9f-a207-7df16f96ed53",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "Cold League",
+                "season": 5,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "b94877da-bd28-4864-b06c-f1fd0bc17477",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randommethuselahs",
+                "league": "Hot League",
+                "season": 5,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "b33084ba-d5d2-42d7-85e6-60d78dc290a2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "twoacorn",
+                "league": "Cold League",
+                "season": 5,
+                "description": "Game 6, Cold League Championship Series",
+                "id": "f678f7c3-ac40-4d82-880a-83925360a8f3",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "fourrabbits",
+                "league": "Hot League",
+                "season": 5,
+                "description": "Game 6, Hot League Championship Series",
+                "id": "1419efc4-f5ac-46e9-923f-6c6e97a394b7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "league": "Cold League",
+                "season": 5,
+                "description": "Game 7, Cold League Championship Series",
+                "id": "76fc6df9-6a7f-4882-aa6f-d81b182d8e03",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spaceshipcluster",
+                "league": "Hot League",
+                "season": 5,
+                "description": "Game 7, Hot League Championship Series",
+                "id": "6c4b504f-601b-48b5-82de-10db0978e33a",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "hellmath",
+                "description": "Game 1, Hellmouth Cup II",
+                "season": 5,
+                "id": "61e9df83-fb22-4022-b614-b378e9c6e909",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightr",
+                "description": "Game 2, Hellmouth Cup II",
+                "season": 5,
+                "id": "51860d36-6257-48e6-a004-b5e257c93e13",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "bigsegment",
+                "description": "Game 3, Hellmouth Cup II",
+                "season": 5,
+                "id": "e9bf91f9-7c1c-433e-81b0-e693578e64b3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "description": "Game 4, Hellmouth Cup II",
+                "season": 5,
+                "id": "6e21a5c9-1418-4ac2-81a6-f4242656f060",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 5, Hellmouth Cup II",
+                "season": 5,
+                "id": "1f1e54ad-9074-4f70-8a8c-37e084909b8d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spiders",
+                "description": "Game 6, Hellmouth Cup II",
+                "season": 5,
+                "id": "f0f8b19e-648b-4c0a-8bcd-c1550cdb452a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "twoacorn",
+                "description": "Game 7, Hellmouth Cup II",
+                "season": 5,
+                "id": "8bcf2eb1-42cb-4d49-8af4-242b7db0f1c0",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
