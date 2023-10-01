@@ -2,7 +2,7 @@ import os
 import json
 
 
-LAST_SEASON0 = 17
+LAST_SEASON0 = 23
 
 SERIES_GPD = {"LDS": 4, "LCS": 2, "HCS": 1}
 
