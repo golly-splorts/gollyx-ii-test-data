@@ -443,7 +443,7 @@
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "twospaceshipgenerators",
-                "description": "Game 1, Hellmouth Cup II",
+                "description": "Game 1, Hellmouth II Cup",
                 "season": 21,
                 "id": "f1ae019a-0a68-4d15-8a85-16aeae656d2f",
                 "isPostseason": true
@@ -456,7 +456,7 @@
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "twoacorn",
-                "description": "Game 2, Hellmouth Cup II",
+                "description": "Game 2, Hellmouth II Cup",
                 "season": 21,
                 "id": "a8dfab40-2c42-4093-9765-522022b178a8",
                 "isPostseason": true
@@ -469,7 +469,7 @@
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "spaceshipcrash",
-                "description": "Game 3, Hellmouth Cup II",
+                "description": "Game 3, Hellmouth II Cup",
                 "season": 21,
                 "id": "55d1ce3f-e6a3-4e32-a0ef-cec3ab2c6d94",
                 "isPostseason": true
@@ -482,7 +482,7 @@
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "spaceshipsegment",
-                "description": "Game 4, Hellmouth Cup II",
+                "description": "Game 4, Hellmouth II Cup",
                 "season": 21,
                 "id": "81356f9f-e2ee-4b85-b578-c7730752e3c9",
                 "isPostseason": true
@@ -495,7 +495,7 @@
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "crabs",
-                "description": "Game 5, Hellmouth Cup II",
+                "description": "Game 5, Hellmouth II Cup",
                 "season": 21,
                 "id": "8b029484-3136-4b22-ac05-96dd8cae218e",
                 "isPostseason": true
@@ -508,7 +508,7 @@
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "randomsegment",
-                "description": "Game 6, Hellmouth Cup II",
+                "description": "Game 6, Hellmouth II Cup",
                 "season": 21,
                 "id": "2a13ee0d-7ec9-4feb-b9db-380aa2a872ec",
                 "isPostseason": true
@@ -521,7 +521,7 @@
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "doublegaussian",
-                "description": "Game 7, Hellmouth Cup II",
+                "description": "Game 7, Hellmouth II Cup",
                 "season": 21,
                 "id": "f50845c2-c09a-484b-bb6b-c206fa11e2a4",
                 "isPostseason": true
