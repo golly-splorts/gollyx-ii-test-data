@@ -9,7 +9,7 @@ SERIES_GPD = {"LDS": 4, "LCS": 2, "HCS": 1}
 ABBR_TO_NAME = {
     "LDS": "League Division Series",
     "LCS": "League Championship Series",
-    "HCS": "Hellmouth Cup II",
+    "HCS": "Hellmouth II Cup",
 }
 
 
